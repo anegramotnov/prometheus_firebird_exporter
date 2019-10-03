@@ -1,1 +1,1 @@
-# prometheus_firebird_exporter
+# Prometheus Firebird Exporter
